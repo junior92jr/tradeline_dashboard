@@ -113,6 +113,13 @@ GET api/v1/tradelines/?page=1&size10&mode_of_transport=air
 }
 ```
 
+### Effort 
+
+Endpoints with mandatory params and pagination (1 commit)
+Endpoints with sorting and optional query params (1 commit)
+Frontend without backend functionality (1 commit)
+Integration Frontend with Backend endpoints (1 commit)
+
 ## Second Step: Selecting a Row item
 
 ### Frontend 
@@ -166,8 +173,10 @@ GET api/v1/tradelines/get-tradeline-stops/T34332342343/
 }
 ```
 
+### Effort 
 
-
+Endpoints with location stops (1 commit)
+Frontend with map, details and backend connection (1 commit)
 
 ## Thirt Step: When Opening a datailed view of a single tradeline
 
@@ -227,6 +236,12 @@ In one simply grid we display the Map with the points and the detailed informati
     ]
 }
 ```
+
+### Effort 
+
+Endpoint with id in the parameter (1 commit)
+Frontend without backend functionality, including map and new details for tradeline (1 commit)
+Integration Frontend with Backend endpoints (1 commit)
 
 ## Error Handling
 
