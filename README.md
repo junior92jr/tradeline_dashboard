@@ -22,10 +22,6 @@ We will have two mandatory Filter choice with a default value.
 Optional Filter choices for transport mode.
 Sorting is possible by `ID`, `Monthly Weight`, `Ocurrences per month`, `Distance in Km`, `Total C02`
 
-|-------------------------------------------------------------------------------------------------------|
-| by country (Default) | by city
-| (Optional) transport mode: road | rail | barge | sea | air
-|
 ---------------------------------------------------------------------------------------------------------|
 |ID |Departure |Arrival |Transport Mode |Monthly Weight |Occu. per month |Distance in Km | Total C02     |
 |---|----------|--------|---------------|---------------|----------------|---------------|---------------|
